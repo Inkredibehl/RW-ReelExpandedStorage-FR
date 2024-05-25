@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageTanningRack.label>Étendoir à tannage</ReelStorageTanningRack.label>
+<ReelStorageTanningRack.description>Une structure spécialisée conçue pour conserver différents types de cuir et de peaux. Les objets à l'intérieur ne se détériorent pas avec le temps et n'affectent pas l'esthétique de l'environnement. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 12
+Capacité par cellule : 6
+
+Objets autorisés : Cuir</ReelStorageTanningRack.description>
+
+
+</LanguageData>

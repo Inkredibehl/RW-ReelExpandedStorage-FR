@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReelNeolithicStorage.label>Stockages Néolithiques</ReelNeolithicStorage.label>
+<ReelNeolithicStorage.description>Créez des conteneurs de stockage adaptés à une colonie de l'ère néolithique, avec des moyens de protéger les biens des intempéries, d'organiser les ressources et d'exposer les armes.</ReelNeolithicStorage.description>
+
+<ReelMedievalStorage.label>Stockages Médiévaux</ReelMedievalStorage.label>
+<ReelMedievalStorage.description>Créez des conteneurs de stockage adaptés à une colonie médiévale, avec des méthodes pour organiser plus efficacement les aliments et les ressources.</ReelMedievalStorage.description>
+
+<ReelIndustrialStorage.label>Stockages Industriels</ReelIndustrialStorage.label>
+<ReelIndustrialStorage.description>Créez des conteneurs de stockage robustes adaptés à une colonie de l'ère industrielle, utilisant des méthodes de stockage et d'organisation efficaces pour une grande quantité de ressources grâce aux technologies modernes.</ReelIndustrialStorage.description>
+
+<ReelSpacerStorage.label>Stockages Spatiaux</ReelSpacerStorage.label>
+<ReelSpacerStorage.description>Créez des conteneurs de stockage modernes adaptés aux colonies et vaisseaux spatiaux, utilisant des méthodes de stockage et d'organisation efficaces pour une grande quantité de ressources tout en minimisant l'utilisation de l'espace.</ReelSpacerStorage.description>
+
+
+</LanguageData>

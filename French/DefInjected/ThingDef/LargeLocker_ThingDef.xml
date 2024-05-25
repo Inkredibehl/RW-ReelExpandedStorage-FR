@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageLargeLocker.label>Grand casier</ReelStorageLargeLocker.label>
+<ReelStorageLargeLocker.description>Un grand casier en métal, conçu pour stocker votre équipement en toute sécurité et le rendre facilement accessible pour équiper vos colons. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 36
+Capacité de la cellule de stockage : 12
+
+Articles autorisés : Vêtements, Armes</ReelStorageLargeLocker.description>
+
+
+</LanguageData>

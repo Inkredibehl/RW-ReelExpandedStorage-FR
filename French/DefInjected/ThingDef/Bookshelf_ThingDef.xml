@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageBookshelf.label>Étagère à livres</ReelStorageBookshelf.label>
+<ReelStorageBookshelf.description>Une étagère à livres robuste, conçue pour stocker des livres et d'autres matériaux écrits. L'étagère est fabriquée en bois solide et dispose de plusieurs niveaux pour ranger des livres, des parchemins et des documents. Elle est conçue pour garder les matériaux écrits organisés et facilement accessibles pour la lecture. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 20
+Capacité de la cellule de stockage : 10
+
+Articles autorisés : Livres</ReelStorageBookshelf.description>
+
+
+</LanguageData>

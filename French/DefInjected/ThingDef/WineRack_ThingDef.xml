@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageWineRack.label>Casier à vin</ReelStorageWineRack.label>
+<ReelStorageWineRack.description>Un présentoir raffiné pour stocker du vin et d'autres boissons alcoolisées destinées à la consommation ou à la vente. Les objets à l'intérieur ne se détériorent pas avec le temps. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 10
+Capacité par cellule : 10
+
+Objets autorisés : Bière, Vin, Spiritueux ordinaires, Spiritueux de luxe</ReelStorageWineRack.description>
+
+
+</LanguageData>

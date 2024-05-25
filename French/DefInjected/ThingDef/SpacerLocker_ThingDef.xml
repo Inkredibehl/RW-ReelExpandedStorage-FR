@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageSpacerLocker.label>Casier spatial</ReelStorageSpacerLocker.label>
+<ReelStorageSpacerLocker.description>Un casier amélioré conçu pour stocker votre équipement et y accéder pour équiper vos colons sur les vaisseaux et les colonies. Les objets stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement environnant. \n\n<color=#E5E54C>Paramètres de stockage:</color>
+Capacité de stockage totale: 60
+Capacité de la cellule: 20
+
+Objets autorisés: Armes, Vêtements</ReelStorageSpacerLocker.description>
+
+
+</LanguageData>

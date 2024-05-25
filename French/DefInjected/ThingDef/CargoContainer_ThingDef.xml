@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageCargoContainer.label>Conteneur de fret</ReelStorageCargoContainer.label>
+<ReelStorageCargoContainer.description>Un grand conteneur pour le stockage à long terme de divers articles. Les objets stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 114
+Capacité de la cellule de stockage : 14
+
+Articles autorisés : Tout, sauf la nourriture, les corps, les débris de pierre et la ferraille</ReelStorageCargoContainer.description>
+
+
+</LanguageData>

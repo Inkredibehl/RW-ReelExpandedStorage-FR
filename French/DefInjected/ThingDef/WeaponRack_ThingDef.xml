@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageWeaponRack.label>Support d'armes</ReelStorageWeaponRack.label>
+<ReelStorageWeaponRack.description>Un support spécialisé conçu pour exposer une variété d'armes de mêlée et à distance dans les arsenaux et les avant-postes. Les objets à l'intérieur ne se détériorent pas avec le temps. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 8
+Capacité par cellule : 4
+
+Objets autorisés : Armes de mêlée et à distance.</ReelStorageWeaponRack.description>
+
+
+</LanguageData>

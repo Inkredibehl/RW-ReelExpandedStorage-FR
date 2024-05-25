@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelIndustrialShelf.label>Étagère à nourriture</ReelIndustrialShelf.label>
+<ReelIndustrialShelf.description>Une étagère de qualité industrielle, conçue pour stocker divers types de produits alimentaires, y compris la farine, les aliments crus, les substances végétales et le moût. Les articles stockés à l'intérieur ne se détériorent pas avec le temps, bien que certains articles doivent encore être congelés. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 20
+Capacité de la cellule de stockage : 10
+
+Articles autorisés : Nourriture, Matériaux végétaux, Moût, Herbes médicinales</ReelIndustrialShelf.description>
+
+
+</LanguageData>

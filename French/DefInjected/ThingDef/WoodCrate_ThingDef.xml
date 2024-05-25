@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageWoodCrate.label>Caisses en bois</ReelStorageWoodCrate.label>
+<ReelStorageWoodCrate.description>Une caisse en bois solide conçue pour stocker une grande quantité de marchandises et de biens précieux. Les objets à l'intérieur ne se détériorent pas avec le temps et n'affectent pas l'esthétique de l'environnement. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 8
+Capacité par cellule : 8
+
+Objets autorisés : Tout, sauf la nourriture, les corps, les débris de pierre et la ferraille métallique</ReelStorageWoodCrate.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageLargeWoodChest.label>Grand coffre en bois</ReelStorageLargeWoodChest.label>
+<ReelStorageLargeWoodChest.description>Un grand coffre en bois occupant deux tuiles, offrant une plus grande capacité de stockage par rapport à son homologue plus petit. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 8
+Capacité de la cellule de stockage : 4
+
+Articles autorisés : Tout, sauf la nourriture, les corps, les débris de pierre et la ferraille</ReelStorageLargeWoodChest.description>
+
+
+</LanguageData>

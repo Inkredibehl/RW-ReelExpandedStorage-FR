@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageWoodPile.label>Tas de bois</ReelStorageWoodPile.label>
+<ReelStorageWoodPile.description>Un petit tas spécialement conçu pour stocker du bois pouvant être utilisé dans la construction, l'artisanat et pour allumer des feux. Les objets à l'intérieur ne se détériorent pas avec le temps et n'affectent pas l'esthétique de l'environnement. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 6
+Capacité par cellule : 6
+
+Objets autorisés : Bois</ReelStorageWoodPile.description>
+
+
+</LanguageData>

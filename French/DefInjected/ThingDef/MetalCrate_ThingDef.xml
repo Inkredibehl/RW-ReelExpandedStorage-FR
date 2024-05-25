@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageMetalCrate.label>Boîte métallique</ReelStorageMetalCrate.label>
+<ReelStorageMetalCrate.description>Une solide boîte métallique conçue pour stocker une grande quantité de marchandises et de biens précieux. Les objets à l'intérieur ne se détériorent pas avec le temps et n'affectent pas l'esthétique de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale : 10
+Capacité par case : 10
+
+Articles autorisés : Tout, sauf la nourriture, les corps, les débris de pierre et la ferraille métallique.</ReelStorageMetalCrate.description>
+
+
+</LanguageData>

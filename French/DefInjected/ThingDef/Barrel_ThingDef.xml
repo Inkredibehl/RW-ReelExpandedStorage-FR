@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReelStorageBarrel.label>Tonneau</ReelStorageBarrel.label>
+<ReelStorageBarrel.description>Un conteneur compact conçu pour stocker des matériaux végétaux, des cultures fraîchement récoltées, des herbes médicinales et du moût. Cependant, vous devrez toujours les congeler. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 8
+Capacité de la cellule de stockage : 8
+
+Articles autorisés : Matériaux végétaux, Herbes médicinales, Produits animaux, Chocolat, Produits végétaux, Poisson cru, Moût, Hémogène, Épices</ReelStorageBarrel.description>
+
+
+</LanguageData>

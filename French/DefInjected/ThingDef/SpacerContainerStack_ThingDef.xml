@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageSpacerContainerStack.label>Empilement de conteneurs spatiaux</ReelStorageSpacerContainerStack.label>
+<ReelStorageSpacerContainerStack.description>Trois conteneurs avancés conçus pour stocker de grandes quantités de marchandises et de objets de valeur sur les vaisseaux et les colonies. Les objets stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement environnant. \n\n<color=#E5E54C>Paramètres de stockage:</color>
+Capacité de stockage totale: 80
+Capacité de la cellule: 20
+
+Objets autorisés: Tout sauf la nourriture, les corps, les morceaux de pierre et les ferrailles métalliques</ReelStorageSpacerContainerStack.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageSkip.label>Conteneur à déchets industriels</ReelStorageSkip.label>
+<ReelStorageSkip.description>Un conteneur à déchets industriels conçu pour stocker divers types de déchets, y compris des corps, des débris de pierre, de la ferraille métallique et des déchets toxiques. Les objets à l'intérieur ne se détériorent pas avec le temps et n'affectent pas l'esthétique de l'environnement, bien que certains objets devront être tout de même congelés. \n\n<color=#E5E54C>Statistiques de stockage :</color>
+Capacité totale : 18
+Capacité par case : 9
+
+Articles autorisés : Débris de pierre, Ferraille métallique, Corps, Déchets toxiques, Déchets recyclables</ReelStorageSkip.description>
+
+
+</LanguageData>

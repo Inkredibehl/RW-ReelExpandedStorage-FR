@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageLargeWoodPile.label>Grand tas de bois</ReelStorageLargeWoodPile.label>
+<ReelStorageLargeWoodPile.description>Un grand tas spécialement conçu pour stocker des bûches, utilisées dans la construction, l'artisanat et l'allumage des feux. Les objets stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 18
+Capacité de la cellule de stockage : 6
+
+Articles autorisés : Bois.</ReelStorageLargeWoodPile.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageLocker.label>Armoire de rangement</ReelStorageLocker.label>
+<ReelStorageLocker.description>Une armoire métallique conçue pour stocker votre équipement en toute sécurité et faciliter l'accès à l'équipement de vos colonistes. Les objets stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 12
+Capacité de la cellule de stockage : 12
+
+Articles autorisés : Vêtements, Armes</ReelStorageLocker.description>
+
+
+</LanguageData>

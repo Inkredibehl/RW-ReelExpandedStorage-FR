@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageLargeStonePile.label>Grand tas de pierres</ReelStorageLargeStonePile.label>
+<ReelStorageLargeStonePile.description>Un grand tas spécialement conçu pour stocker des débris de pierre et des blocs utilisés dans la construction et l'artisanat. Les articles stockés à l'intérieur n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 32
+Capacité de la cellule de stockage : 8
+
+Articles autorisés : Blocs de pierre, Débris de pierre</ReelStorageLargeStonePile.description>
+
+
+</LanguageData>

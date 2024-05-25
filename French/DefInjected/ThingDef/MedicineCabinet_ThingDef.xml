@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageMedicineCabinet.label>Armoire à pharmacie</ReelStorageMedicineCabinet.label>
+<ReelStorageMedicineCabinet.description>Une étagère compacte conçue pour stocker des médicaments, des parties de corps, des préparations et des plantes. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement, bien qu'il soit nécessaire de congeler certains articles. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 18
+Capacité de la cellule de stockage : 9
+
+Articles autorisés : Médicaments, Plantes, Préparations, Neutroamine, Parties de corps</ReelStorageMedicineCabinet.description>
+
+
+</LanguageData>

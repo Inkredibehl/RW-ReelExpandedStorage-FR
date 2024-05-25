@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageWoodChest.label>Coffre en bois</ReelStorageWoodChest.label>
+<ReelStorageWoodChest.description>Un petit coffre en bois d'une seule case, conçu pour stocker une quantité limitée d'objets. Les objets à l'intérieur ne se détériorent pas avec le temps et n'affectent pas l'esthétique de l'environnement. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 4
+Capacité par cellule : 4
+
+Objets autorisés : Tout, sauf la nourriture, les corps, les débris de pierre et la ferraille métallique</ReelStorageWoodChest.description>
+
+
+</LanguageData>

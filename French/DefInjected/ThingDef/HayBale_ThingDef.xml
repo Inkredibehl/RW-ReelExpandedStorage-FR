@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageHayBale.label>Botte de foin</ReelStorageHayBale.label>
+<ReelStorageHayBale.description>Un paquet compact de foin, lié avec de la ficelle ou de la corde. Il est conçu pour garder le foin au sec et accessible pour nourrir le bétail et autres animaux. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 8
+Capacité de la cellule de stockage : 8
+
+Articles autorisés : Foin</ReelStorageHayBale.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageAnimalFeeder.label>Mangeoire pour animaux</ReelStorageAnimalFeeder.label>
+<ReelStorageAnimalFeeder.description>Un conteneur de stockage spécialisé conçu pour stocker la nourriture destinée aux animaux de votre colonie. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 18
+Capacité de la cellule de stockage : 9
+
+Articles autorisés : Foin, Nourriture pour animaux</ReelStorageAnimalFeeder.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReelStorageBarrelPallet.label>Palette de tonneaux</ReelStorageBarrelPallet.label>
+<ReelStorageBarrelPallet.description>Un grand espace de stockage conçu pour entreposer des tonneaux de carburant chimique destinés à être utilisés dans des générateurs, des véhicules et d'autres équipements. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 60
+Capacité de la cellule de stockage : 15
+
+Articles autorisés : Carburant chimique</ReelStorageBarrelPallet.description>
+
+
+</LanguageData>

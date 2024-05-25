@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageMeatHook.label>Support à viande</ReelStorageMeatHook.label>
+<ReelStorageMeatHook.description>Un support spécialisé conçu pour stocker de la viande crue et des cadavres en attente de découpe ou d'élimination. Les articles stockés à l'intérieur ne se détériorent pas avec le temps et n'affectent pas la beauté de l'environnement, bien qu'ils doivent toujours être congelés. \n\n<color=#E5E54C>Paramètres de stockage :</color>
+Capacité totale de stockage : 16
+Capacité de la cellule de stockage : 8
+
+Articles autorisés : Viande crue, Poissons, Corps</ReelStorageMeatHook.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<ReelStorageStonePile.label>Tas de pierres</ReelStorageStonePile.label>
+<ReelStorageStonePile.description>Un petit tas spécialement conçu pour stocker des morceaux de pierre et des blocs utilisés dans la construction et l'artisanat. Les objets à l'intérieur n'affectent pas l'esthétique de l'environnement. \n\n<color=#E5E54C>Caractéristiques de stockage :</color>
+Capacité totale : 6
+Capacité par cellule : 6
+
+Objets autorisés : Blocs de pierre, Morceaux de pierre</ReelStorageStonePile.description>
+
+
+</LanguageData>
